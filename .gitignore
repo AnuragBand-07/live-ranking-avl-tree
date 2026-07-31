@@ -1,0 +1,15 @@
+# Compiled binaries (regenerate with g++, see README)
+avl_demo
+stress
+benchmark
+
+# Common build/artifact patterns
+*.o
+*.out
+*.exe
+a.out
+
+# Editor / OS cruft
+.vscode/
+.idea/
+.DS_Store
